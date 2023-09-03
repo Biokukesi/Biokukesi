@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Kundananji
-- 👨🏿‍💻 I’m interested in developing good quality maintainable software applications while being as effective and efficient as possible in terms of schedule and budget of the software product.
-- 😁You can reach me @biokukesi@gmail.com
+👋 Greetings from the digital realm! I'm Kundananji.
 
-<!---
-Biokukesi/Biokukesi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 Tech Stacks & Interests:
+
+Fintech & Data Science: Harnessing algorithms and computational solutions for transformative financial insights.
+Software Engineering: Developing scalable and robust applications, championing clean code and architectural patterns.
+Entrepreneurial Tech: Merging business acumen with technical prowess to drive data-informed decisions and optimize transactional workflows.
+🔗 Let's Collaborate or Chat: biokukesi@gmail.com
+
